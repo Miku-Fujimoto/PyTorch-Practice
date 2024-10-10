@@ -8,3 +8,6 @@ if count > unco_price:
 
 else:
     print ("あなたにうんこはありません")
+
+unkos = {"geri":"water", "katai":"black"}
+    # print (unkos)
